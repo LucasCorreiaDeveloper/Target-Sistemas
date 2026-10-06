@@ -15,6 +15,14 @@
       "descricaoProduto": "Caderno Universitário",
       "quantidadeMovimentada": 25,
       "estoqueFinal": 75
+    },
+    {
+      "id": 3,
+      "tipo": "ENTRADA",
+      "codigoProduto": 102,
+      "descricaoProduto": "Caderno Universitário",
+      "quantidadeMovimentada": 23,
+      "estoqueFinal": 98
     }
   ]
 }
