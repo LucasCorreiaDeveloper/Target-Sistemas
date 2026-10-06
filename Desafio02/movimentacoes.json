@@ -1,0 +1,20 @@
+{
+  "movimentacoes": [
+    {
+      "id": 1,
+      "tipo": "ENTRADA",
+      "codigoProduto": 102,
+      "descricaoProduto": "Caderno Universitário",
+      "quantidadeMovimentada": 25,
+      "estoqueFinal": 100
+    },
+    {
+      "id": 2,
+      "tipo": "SAÍDA",
+      "codigoProduto": 102,
+      "descricaoProduto": "Caderno Universitário",
+      "quantidadeMovimentada": 25,
+      "estoqueFinal": 75
+    }
+  ]
+}
