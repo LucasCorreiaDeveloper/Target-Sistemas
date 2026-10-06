@@ -11,9 +11,9 @@ const arredondar = (n) => Math.round(n * 100) / 100;
 
 // Regra de comissão de uma venda
 function calcularComissao(valor) {
-  if (valor < 100) return 0; // abaixo de 100: sem comissão
-  if (valor < 500) return valor * 0.01; // de 100 até 499,99: 1%
-  return valor * 0.05; // a partir de 500: 5%
+  if (valor < 100) return 0; // abaixo de 100 = sem comissão
+  if (valor < 500) return valor * 0.01; // de 100 até 499,99 = 1%
+  return valor * 0.05; // a partir de 500 = 5%
 }
 
 // Agrupa por vendedor
